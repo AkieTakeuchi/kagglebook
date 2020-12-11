@@ -13,7 +13,7 @@
 | ch02 | 第2章のサンプルコード (metrics)|
 | ch03 | 第3章のサンプルコード (pre-processing)|
 | ch04 | 第4章のサンプルコード (training)|
-| ch05 | 第5章のサンプルコード (valication)|
+| ch05 | 第5章のサンプルコード (validation)|
 | ch06 | 第6章のサンプルコード (Hyper parameter,Feature selection) |
 | ch07 | 第7章のサンプルコード (ensemble)|
 | ch04-model-interface | 第4章の「分析コンペ用のクラスやフォルダの構成」のコード |
